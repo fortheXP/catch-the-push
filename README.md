@@ -1,2 +1,2 @@
 # catch-the-push
-add in local repo
+edit in local repo
